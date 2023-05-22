@@ -7,4 +7,5 @@
     <string name="Checkbox_pollo">Pollo</string>
     <string name="Checkbox_pato">Pato</string>
     <string name="Checkbox_otros">Otros</string>
+    <string name="Button_Enviar">Enviar</string>
 </resources>
