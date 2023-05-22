@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAMEP_Diaz_Llanos_Navarro</string>
+    <string name="RadioButton_Urbano">Urbano</string>
+    <string name="RadioButton_Rural">Rural</string>
+    <string name="Checkbox_gato">Gato</string>
+    <string name="Checkbox_perro">Perro</string>
+    <string name="Checkbox_pollo">Pollo</string>
+    <string name="Checkbox_pato">Pato</string>
+    <string name="Checkbox_otros">Otros</string>
+</resources>
